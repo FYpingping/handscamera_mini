@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="server_ip">10.0.2.2</string>
+    <string name="localhost">10.0.2.2</string>
+    <integer name="select_port">8765</integer>
+    <integer name="quiz_answer_port">8766</integer>
+</resources>

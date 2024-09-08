@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- 로컬 호스트 및 다른 도메인에 대한 cleartext 트래픽 허용 설정 -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">localhost</domain>
+        <!-- 필요에 따라 추가 도메인 설정 가능 -->
+    </domain-config>
+</network-security-config>
